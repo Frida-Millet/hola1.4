@@ -1,0 +1,11 @@
+ul.numero {
+    list-style-type:decimal;
+}
+ol.idk {
+    list-style-type: square;
+}
+ul.ns {
+    list-style-type: lower-roman;
+}
+
+
